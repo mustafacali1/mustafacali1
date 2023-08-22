@@ -10,5 +10,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mustafacali1&theme=default&hide_border=false)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mustafacali1)](https://github.com/mustafacali1)<br>
-
 ![](https://komarev.com/ghpvc/?username=mustafacali1&style=flat-square)
